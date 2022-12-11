@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-discord/main/assets/previews/latte.webp"/>
+<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-discord/main/assets/previews/frappe.webp"/>
+<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-discord/main/assets/previews/macchiato.webp"/>
+<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-discord/main/assets/previews/mocha.webp"/>
+<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/mocha.webp"/>
 </details>
 
 ## Usage
