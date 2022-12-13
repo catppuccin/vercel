@@ -156,4 +156,8 @@
   svg {
     --geist-stroke: var(--geist-background) !important;
   }
+  
+  .button_ghost__sBWMh {
+    --lighten-color: transparent !important;
+  }
 }
