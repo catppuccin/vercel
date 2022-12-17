@@ -6,32 +6,32 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/ryanccn/ctp-vercel/stargazers"><img src="https://img.shields.io/github/stars/ryanccn/ctp-vercel?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/ryanccn/ctp-vercel/issues"><img src="https://img.shields.io/github/issues/ryanccn/ctp-vercel?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/ryanccn/ctp-vercel/contributors"><img src="https://img.shields.io/github/contributors/ryanccn/ctp-vercel?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/vercel/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/vercel?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/vercel/issues"><img src="https://img.shields.io/github/issues/catppuccin/vercel?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/vercel/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/vercel?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/vercel/main/assets/previews/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/latte.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/vercel/main/assets/previews/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/frappe.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/vercel/main/assets/previews/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/macchiato.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/vercel/main/assets/previews/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/ryanccn/ctp-vercel/main/assets/previews/mocha.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/vercel/main/assets/previews/mocha.webp"/>
 </details>
 
 ## Usage
@@ -39,7 +39,7 @@
 ### Stylus
 1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 2. Enable CSP Patching from Stylus Settings > Advanced.
-3. [Click here to install.](https://github.com/ryanccn/ctp-vercel/raw/main/catppuccin.user.css)
+3. [Click here to install.](https://github.com/catppuccin/vercel/raw/main/catppuccin.user.css)
 
 ### Stylish
 1. Install Stylish [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/stylish/)/[Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) extension.

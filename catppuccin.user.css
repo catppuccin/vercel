@@ -1,10 +1,10 @@
 /* ==UserStyle== 
 @name           Vercel Catppuccin
-@namespace      github.com/ryanccn/ctp-vercel
+@namespace      github.com/catppuccin/vercel
 @version        0.0.2
 @description    Soothing pastel theme for Vercel
 @author         Catppuccin
-@updateURL      https://github.com/ryanccn/ctp-vercel/raw/main/catppuccin.user.css
+@updateURL      https://github.com/catppuccin/vercel/raw/main/catppuccin.user.css
 @preprocessor   stylus
 @var select theme "Theme" ["Latte", "Frappe", "Macchiato", "Mocha*"]
 ==/UserStyle== */
