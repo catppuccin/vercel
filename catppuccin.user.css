@@ -153,6 +153,12 @@
     --_1psdadq1n: $maroon;
   }
 
+  if (theme=="Latte") {
+    div.jsx-138561840.menu > div.item.hover:hover {
+        background-color: var(--accents-2) !important;
+    }
+  }
+  
   svg {
     --geist-stroke: var(--geist-background) !important;
   }
