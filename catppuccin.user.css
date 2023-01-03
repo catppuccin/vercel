@@ -155,7 +155,11 @@
 
   if (theme=="Latte") {
     div.jsx-138561840.menu > div.item.hover:hover {
-        background-color: var(--accents-2) !important;
+      background-color: var(--accents-2) !important;
+    }
+
+    div.jsx-138561840.menu > div.item.active {
+      background-color: var(--accents-2) !important;
     }
   }
   
