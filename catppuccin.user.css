@@ -7,7 +7,6 @@
 @preprocessor   less
 @updateURL      https://github.com/catppuccin/vercel/raw/main/catppuccin.user.css
 @var select Theme "Theme" ["latte:Latte", "frappe:Frappe", "macchiato:Macchiato", "mocha:Mocha*"]
-@var select accentColour  "Accent" ["rosewater:Rosewater", "flamingo:Flamingo", "pink:Pink", "mauve:Mauve", "red:Red*", "maroon:Maroon", "peach:Peach", "yellow:Yellow", "green:Green", "teal:Teal", "blue:Blue", "sapphire:Sapphire", "sky:Sky", "lavender:Lavender", "subtext0:Grey"]
 ==/UserStyle== */
 @-moz-document domain("vercel.com") {
 
